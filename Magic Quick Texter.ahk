@@ -485,3 +485,4 @@ AppInfoMenu(*) {
 AppInfoGui_Close(*) {
     ; Gui automatically closes when this event handler returns
 }
+
