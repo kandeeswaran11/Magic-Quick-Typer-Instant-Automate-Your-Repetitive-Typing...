@@ -1,4 +1,4 @@
-# Magic-Quick-Typer-Instant Automate Your Typing 
+# Magic-Quick-Typer-Instant Automate Your Typing And launch Files, Folders and Apps....
 Magic Quick Typer - is a Text Expander ( Tiny shortcut text into long text ) And Auto Form filler utility powered by AutoHotkey v2.
 Its lets you turn tiny shortcuts (Hotstring or Hotkey) into long text instantly, fully customizable from Excel without editing scripts.
 
@@ -25,6 +25,9 @@ Prepare your Excel file (Shortcuts.xlsx) with 4 columns:
 | Hotstring | Thanks| Thx | Thanks for contacting us. Our team will respond to you as soon as possible. |
 | Hotkey | Sorry | ^r | We regret any inconvenience this has caused you! |
 | Hotkey | Welcome | ^w| Magic Quick Typer Welcomes You  |
+| Hotkey | Launch Folder | ^l| Run "C:\Users\Tnka-Laptop\Downloads\"  |
+| Hotkey | Launch Files | ^f| Run "C:\Users\Tnka-Laptop\Downloads\convertcase-net.txt"  |
+| Hotkey | Launch Apps | ^f| "C:\Program Files\Google\Chrome\Application\chrome.exe"  |
 
 # Updating Your Excel Shortcuts.xlsx
 1. Close the running script → Right-click the green H icon in the tray (near the clock) and choose Exit.
@@ -46,7 +49,7 @@ Prepare your Excel file (Shortcuts.xlsx) with 4 columns:
  1. Download And Install If you dont have AutoHotkey v2 
 from the official site: https://www.autohotkey.com/download/
 Complete the installation (default options are fine).
-2. Github Repo Link- https://github.com/kandeeswaran11/Magic-Quick-Typer-Instant-Automate-Your-Repetitive-Typing.../
+2. Github Repo Link- https://github.com/kandeeswaran11/OneKey-Automator-Smart-Typing-And-App-Launcher
 3. Download the Magic Quick Typer from Repo. Extract the ZIP file to a folder on your PC (example: C:\MagicQuickTyper).
 5. Open __Magic Quick Typer.ahk__ script → It reads the Excel file and auto-creates the hotkeys & hotstrings.
 6. Use in daily typing:
