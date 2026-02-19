@@ -1,8 +1,9 @@
 # Magic-Quick-Typer-Instant Automate Your Typing And launch Files, Folders and Apps....
 A simple but powerful way to expand text, launch files, 
 fill forms, and save time on repetitive tasks. fully customizable from Excel without editing scripts.
+**For more details, please refer to the guideline PDF.**
 
-For your custom app automation requirements Contact me @  instantautomate@gmail.com
+***For your custom app automation requirements Contact me @  instantautomate@gmail.com***
 
 # How it works
 Prepare your Excel file (Shortcuts.xlsx) with 4 columns:
